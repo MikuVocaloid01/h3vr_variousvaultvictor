@@ -2,13 +2,17 @@
 # Various Vault Victor
 ### A Character Mod for H3VR, using [Take and Hold Tweaker](https://github.com/devyndamonster/TakeAndHoldTweaker)
 
+## Spawning Table
+### For Version 1.1
+![](https://i.imgur.com/gqS04et.png)
+
 # Update Log
 
 ### - To Do -
 - Modul417 Parts
 - ModulKilo Parts
 
-#### 1.2
+#### 1.2 - NEXT UPDATE
 - Default HK417 Pool 16
 - Default G28 Pool 16
 - FNV Service Carbine (Single Only)
