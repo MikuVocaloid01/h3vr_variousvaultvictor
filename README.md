@@ -1,10 +1,11 @@
 
 # Various Vault Victor
 ### A Character Mod for H3VR, using [Take and Hold Tweaker](https://github.com/devyndamonster/TakeAndHoldTweaker)
+![Character Icon](https://i.imgur.com/qIZYWfS.png)
 
 ## Spawning Table
 ### For Version 1.1
-![](https://i.imgur.com/gqS04et.png)
+![Spawning Table](https://i.imgur.com/gqS04et.png)
 
 # Update Log
 
