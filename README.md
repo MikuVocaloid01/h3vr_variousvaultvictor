@@ -5,14 +5,21 @@
 ![Character Icon](https://i.imgur.com/qIZYWfS.png)
 
  ## Table of Contents
-###  | [Info](#info) | [Spawning Table](#spawning-table) | [Update Log](#update-log) | [Upcoming Features](#upcoming-features) |
+###  | [Info](#info) | [Changes](#changes) | [Spawning Table](#spawning-table) | [Update Log](#update-log) | [Upcoming Features](#upcoming-features) |
 
 ## Info
 My first Take and Hold custom character, based off of Ricky Dicky Random. 
+
 I've always lamented getting any of the parts from the modular gun mods because they're basically unusable in RDR. 
+
 This character is an attempt to solve that issue. 
 
+## Changes
+
+![Menu Layout](https://i.imgur.com/NVk63if.png)
+
 Everything else is exactly the same as RDR, except you get one extra token per wave on 5 hold mode. 
+
 Let me know how it goes, whether anything needs to be changed, like some weapon groups or parts spawning too much.
 
 ## Spawning Table
@@ -63,7 +70,7 @@ Let me know how it goes, whether anything needs to be changed, like some weapon 
 - Modul-M14 Vaults and Parts
 
 #### When I feel like doing it
-- Rework of the parts menu because it's getting pretty crowded
+- Rework of the parts menu (panel 2) because it's getting pretty crowded
 - Proper progression (Pistols on first take supply point, shotguns on second, etc) 
 - Some non-modular gun vaults
 
