@@ -1,7 +1,19 @@
 
+
 # Various Vault Victor
 ### A Character Mod for H3VR, using [Take and Hold Tweaker](https://github.com/devyndamonster/TakeAndHoldTweaker)
 ![Character Icon](https://i.imgur.com/qIZYWfS.png)
+
+ ## Table of Contents
+###  | [Info](#info) | [Spawning Table](#spawning-table) | [Update Log](#update-log) | [Upcoming Features](#upcoming-features) |
+
+## Info
+My first Take and Hold custom character, based off of Ricky Dicky Random. 
+I've always lamented getting any of the parts from the modular gun mods because they're basically unusable in RDR. 
+This character is an attempt to solve that issue. 
+
+Everything else is exactly the same as RDR, except you get one extra token per wave on 5 hold mode. 
+Let me know how it goes, whether anything needs to be changed, like some weapon groups or parts spawning too much.
 
 ## Spawning Table
 ### For Version 1.1
