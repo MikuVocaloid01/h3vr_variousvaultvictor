@@ -53,9 +53,10 @@
 #### When I feel like doing it
 - Rework of the parts menu because it's getting pretty crowded
 - Proper progression (Pistols on first take supply point, shotguns on second, etc) 
+- Some non-modular gun vaults
 
 #### When it releases
-- Default 1911
-- Modul-1911
+- Modul-1911 Vaults and Parts
+- Modul-M700 Vaults and Parts
 
 
