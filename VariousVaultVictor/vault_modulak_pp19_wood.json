@@ -1,0 +1,183 @@
+{
+  "FileName": "vault_modulak_pp19_wood",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -4.0,
+  "SpeedForward": 1.8,
+  "SpringStiffness": 110.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": -17.0,
+      "ModeType": "Safe",
+      "BurstAmount": 0
+    },
+    {
+      "SelectorPosition": -5.0,
+      "ModeType": "FullAuto",
+      "BurstAmount": 0
+    },
+    {
+      "SelectorPosition": 3.0,
+      "ModeType": "Single",
+      "BurstAmount": 3
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "ModulPP19",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "HammerState": "Uncocked",
+        "FireSelectorState": "0"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "PP19Dustcover",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0764130354,
+        "z": 0.06335902
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 5,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 2,
+      "ObjectID": "MuzzlePP19",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0405999422,
+        "z": 0.380300045
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 3,
+      "ObjectID": "AKFore74Wood",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0500000119,
+        "z": 0.2850001
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -5.96046448E-08,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 4,
+      "ObjectID": "AKStockAKS",
+      "PosOffset": {
+        "x": 0.00049996376,
+        "y": 0.0209999681,
+        "z": -0.0350000858
+      },
+      "OrientationForward": {
+        "x": 1.45661261E-13,
+        "y": 4.887581E-06,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 5.96046448E-08,
+        "y": 1.0,
+        "z": -4.887581E-06
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 5,
+      "ObjectID": "AKGripBorderGreen",
+      "PosOffset": {
+        "x": 6.425381E-05,
+        "y": -0.000199973583,
+        "z": 0.0059273243
+      },
+      "OrientationForward": {
+        "x": 3.72528985E-09,
+        "y": 1.86264493E-09,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 3.46944612E-18,
+        "y": -1.0,
+        "z": 1.86264493E-09
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    }
+  ]
+}

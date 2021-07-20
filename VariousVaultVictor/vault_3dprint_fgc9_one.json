@@ -1,0 +1,283 @@
+{
+  "FileName": "vault_3dprint_fgc9_one",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -2.0,
+  "SpeedForward": 1.5,
+  "SpringStiffness": 100.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": 0.0,
+      "ModeType": "Safe",
+      "BurstAmount": 3
+    },
+    {
+      "SelectorPosition": -90.0,
+      "ModeType": "Single",
+      "BurstAmount": 3
+    },
+    {
+      "SelectorPosition": -180.0,
+      "ModeType": "FullAuto",
+      "BurstAmount": 3
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "GunFGC",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "HammerState": "Uncocked",
+        "FireSelectorState": "0"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "AR15TubeSIBlu",
+      "PosOffset": {
+        "x": 0.00209999084,
+        "y": 0.07789993,
+        "z": -0.04279995
+      },
+      "OrientationForward": {
+        "x": 3.330669E-16,
+        "y": 4.47015829E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -9.882661E-17,
+        "y": 1.0,
+        "z": -4.47015829E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 2,
+      "ObjectID": "AR15GripA2",
+      "PosOffset": {
+        "x": 0.00129985809,
+        "y": 0.00109994411,
+        "z": -0.006700039
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 3,
+      "ObjectID": "Fore4",
+      "PosOffset": {
+        "x": 0.000699996948,
+        "y": 0.05669999,
+        "z": 0.161499977
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 4,
+      "ObjectID": "AR15Barrel10,5in",
+      "PosOffset": {
+        "x": 0.0013999939,
+        "y": 0.05610001,
+        "z": 0.1717
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 5,
+      "ObjectID": "AR15MuzzlePCCblk",
+      "PosOffset": {
+        "x": 0.0013999939,
+        "y": 0.05610001,
+        "z": 0.445600033
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 4,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 6,
+      "ObjectID": "AR15GasBlockWindham",
+      "PosOffset": {
+        "x": 0.0013999939,
+        "y": 0.05610001,
+        "z": 0.397639751
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 4,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 7,
+      "ObjectID": "AR15StockViperBlk",
+      "PosOffset": {
+        "x": 0.00209999084,
+        "y": 0.07789993,
+        "z": -0.2328
+      },
+      "OrientationForward": {
+        "x": 3.330669E-16,
+        "y": 4.47015829E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -9.882661E-17,
+        "y": 1.0,
+        "z": -4.47015829E-08
+      },
+      "ObjectAttachedTo": 1,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 8,
+      "ObjectID": "GlowringRearSight",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.117299914,
+        "z": -0.0221848488
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 2.5145706E-08,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 9,
+      "ObjectID": "GlowringFrontSight",
+      "PosOffset": {
+        "x": 0.000800132751,
+        "y": 0.11590004,
+        "z": 0.351068974
+      },
+      "OrientationForward": {
+        "x": 1.63912745E-07,
+        "y": 5.960467E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -4.5448536E-07,
+        "y": 1.0,
+        "z": -5.96046021E-08
+      },
+      "ObjectAttachedTo": 3,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    }
+  ]
+}

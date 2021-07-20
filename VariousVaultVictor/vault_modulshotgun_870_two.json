@@ -1,0 +1,117 @@
+{
+  "FileName": "vault_modulshotgun_870_two",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": 0.0,
+  "SpeedForward": 0.0,
+  "SpringStiffness": 0.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "Modul870",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "HammerState": "Uncocked",
+        "SafetyState": "On"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "870Pump4blk",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0138001442,
+        "z": 0.36357975
+      },
+      "OrientationForward": {
+        "x": -7.450581E-09,
+        "y": -1.38777878E-17,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 3.7252903E-09,
+        "y": -1.0,
+        "z": 1.38777878E-17
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 2,
+      "ObjectID": "Stock870pisblk",
+      "PosOffset": {
+        "x": -1.1920929E-07,
+        "y": 0.0441999435,
+        "z": 0.0102500916
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 3,
+      "ObjectID": "Bar870355",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0641499758,
+        "z": 0.226379871
+      },
+      "OrientationForward": {
+        "x": -1.25914812E-06,
+        "y": -5.96049148E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -4.26545768E-07,
+        "y": 1.0,
+        "z": 5.96043748E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    }
+  ]
+}

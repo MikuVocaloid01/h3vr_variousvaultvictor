@@ -1,0 +1,153 @@
+{
+  "FileName": "vault_modulvector9mm_base",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -5.0,
+  "SpeedForward": 5.0,
+  "SpringStiffness": 200.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": 0.0,
+      "ModeType": "Safe",
+      "BurstAmount": 1
+    },
+    {
+      "SelectorPosition": -30.0,
+      "ModeType": "Single",
+      "BurstAmount": 1
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "FTWGunVector9mm",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "HammerState": "Uncocked",
+        "FireSelectorState": "0"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "AR15MuzzlePCCblk",
+      "PosOffset": {
+        "x": 0.0,
+        "y": -0.0106999874,
+        "z": 0.3441
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 2,
+      "ObjectID": "FTWVectorB",
+      "PosOffset": {
+        "x": 0.00142991543,
+        "y": -0.0297600031,
+        "z": 0.288872242
+      },
+      "OrientationForward": {
+        "x": -6.357562E-08,
+        "y": -1.05794015E-07,
+        "z": -1.0
+      },
+      "OrientationUp": {
+        "x": -2.68220873E-07,
+        "y": -1.0,
+        "z": 1.0579403E-07
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 3,
+      "ObjectID": "FTWVectorS",
+      "PosOffset": {
+        "x": 0.0209000111,
+        "y": -0.0146999359,
+        "z": 0.288872242
+      },
+      "OrientationForward": {
+        "x": -6.357563E-08,
+        "y": -1.05794008E-07,
+        "z": -1.00000024
+      },
+      "OrientationUp": {
+        "x": 1.00000012,
+        "y": -1.1920929E-06,
+        "z": -6.357552E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 5,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 4,
+      "ObjectID": "FTWVectorS",
+      "PosOffset": {
+        "x": -0.0196000338,
+        "y": -0.0154999495,
+        "z": 0.288872242
+      },
+      "OrientationForward": {
+        "x": -6.357561E-08,
+        "y": -1.05794015E-07,
+        "z": -0.99999994
+      },
+      "OrientationUp": {
+        "x": -0.99999994,
+        "y": -1.1920929E-07,
+        "z": 6.357563E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    }
+  ]
+}

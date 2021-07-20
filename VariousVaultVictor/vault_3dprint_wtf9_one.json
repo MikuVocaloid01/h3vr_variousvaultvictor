@@ -1,0 +1,183 @@
+{
+  "FileName": "vault_3dprint_wtf9_one",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -2.0,
+  "SpeedForward": 1.5,
+  "SpringStiffness": 100.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": 0.0,
+      "ModeType": "Safe",
+      "BurstAmount": 3
+    },
+    {
+      "SelectorPosition": -90.0,
+      "ModeType": "Single",
+      "BurstAmount": 3
+    },
+    {
+      "SelectorPosition": -180.0,
+      "ModeType": "FullAuto",
+      "BurstAmount": 3
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "GunWTF",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "HammerState": "Uncocked",
+        "FireSelectorState": "0"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "VecStock3d",
+      "PosOffset": {
+        "x": 0.00209987164,
+        "y": 0.0620999336,
+        "z": -0.0599999428
+      },
+      "OrientationForward": {
+        "x": 4.440891E-16,
+        "y": 2.98023188E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 2.98023188E-08,
+        "y": 1.0,
+        "z": -2.98023188E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 2,
+      "ObjectID": "Fore1",
+      "PosOffset": {
+        "x": 0.000699996948,
+        "y": 0.056699872,
+        "z": 0.16260004
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -9.313225E-09,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 3,
+      "ObjectID": "front1",
+      "PosOffset": {
+        "x": 0.000699996948,
+        "y": 0.056699872,
+        "z": 0.25549984
+      },
+      "OrientationForward": {
+        "x": 3.7252903E-09,
+        "y": 3.469447E-18,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -1.86264515E-09,
+        "y": 1.0,
+        "z": 3.469447E-18
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 4,
+      "ObjectID": "gripmp5",
+      "PosOffset": {
+        "x": 0.000699996948,
+        "y": 0.0316998959,
+        "z": 0.201714993
+      },
+      "OrientationForward": {
+        "x": 7.45058149E-09,
+        "y": 2.98023259E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -1.49011647E-08,
+        "y": -1.0,
+        "z": 2.98023259E-08
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 5,
+      "ObjectID": "Ar15GripMOEBLK",
+      "PosOffset": {
+        "x": 0.0012999773,
+        "y": 0.00109994411,
+        "z": -0.006700039
+      },
+      "OrientationForward": {
+        "x": -2.98023224E-08,
+        "y": -1.110223E-16,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 7.450581E-09,
+        "y": -1.0,
+        "z": 1.110223E-16
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    }
+  ]
+}

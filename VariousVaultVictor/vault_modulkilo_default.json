@@ -1,0 +1,263 @@
+{
+  "FileName": "vault_modulkilo_default",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -5.0,
+  "SpeedForward": 4.0,
+  "SpringStiffness": 180.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": 0.0,
+      "ModeType": "Safe",
+      "BurstAmount": 0
+    },
+    {
+      "SelectorPosition": -30.0,
+      "ModeType": "Single",
+      "BurstAmount": 0
+    },
+    {
+      "SelectorPosition": -60.0,
+      "ModeType": "Burst",
+      "BurstAmount": 3
+    },
+    {
+      "SelectorPosition": -90.0,
+      "ModeType": "FullAuto",
+      "BurstAmount": 0
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "Kilo141",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "HammerState": "Uncocked",
+        "FireSelectorState": "0"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "KiloGrip",
+      "PosOffset": {
+        "x": 6.10351563E-05,
+        "y": 0.00158691406,
+        "z": -0.008300781
+      },
+      "OrientationForward": {
+        "x": -3.72454245E-09,
+        "y": -2.533197E-07,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 5.900859E-06,
+        "y": -1.0,
+        "z": -2.533197E-07
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 2,
+      "ObjectID": "KiloShort",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.05731201,
+        "z": 0.142333984
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 3,
+      "ObjectID": "KiloHeavy",
+      "PosOffset": {
+        "x": 0.000122070313,
+        "y": 0.0607910156,
+        "z": -0.09790039
+      },
+      "OrientationForward": {
+        "x": 1.78813934E-07,
+        "y": 1.19209275E-07,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 2.98023046E-08,
+        "y": 1.0,
+        "z": -1.19209275E-07
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 4,
+      "ObjectID": "KiloMuzzle",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.05682373,
+        "z": 0.421142578
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 5,
+      "ObjectID": "KiloRail",
+      "PosOffset": {
+        "x": -0.0238037109,
+        "y": 0.0534667969,
+        "z": 0.331298828
+      },
+      "OrientationForward": {
+        "x": 7.993606E-13,
+        "y": -2.682209E-07,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 5.96046448E-06,
+        "y": -1.0,
+        "z": -2.682209E-07
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 6,
+      "ObjectID": "KiloRear",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.095703125,
+        "z": -0.0256347656
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 1.7881392E-07,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": -1.7881392E-07
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 7,
+      "ObjectID": "KiloFront",
+      "PosOffset": {
+        "x": -6.10351563E-05,
+        "y": 0.09576416,
+        "z": 0.357666016
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 1.19209275E-07,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": -1.19209275E-07
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 8,
+      "ObjectID": "KiloRail",
+      "PosOffset": {
+        "x": 0.0230712891,
+        "y": 0.05267334,
+        "z": 0.330810547
+      },
+      "OrientationForward": {
+        "x": -5.960571E-08,
+        "y": 1.78813579E-07,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -1.19060278E-05,
+        "y": 1.0,
+        "z": -1.7881429E-07
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    }
+  ]
+}

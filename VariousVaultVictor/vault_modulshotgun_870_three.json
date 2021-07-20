@@ -1,0 +1,142 @@
+{
+  "FileName": "vault_modulshotgun_870_three",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": 0.0,
+  "SpeedForward": 0.0,
+  "SpringStiffness": 0.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "Modul870",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "HammerState": "Uncocked",
+        "SafetyState": "On"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "Mag8707",
+      "PosOffset": {
+        "x": -1.1920929E-07,
+        "y": 0.03113997,
+        "z": 0.543349743
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 2,
+      "ObjectID": "Bar870508",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.064150095,
+        "z": 0.226379871
+      },
+      "OrientationForward": {
+        "x": -1.3113023E-06,
+        "y": -3.32178783E-13,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -5.06639537E-07,
+        "y": 1.0,
+        "z": -3.32178783E-13
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 3,
+      "ObjectID": "Stock870magpul",
+      "PosOffset": {
+        "x": 2.38418579E-07,
+        "y": 0.0442000628,
+        "z": 0.0102500916
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 4,
+      "ObjectID": "870Pump3",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.013800025,
+        "z": 0.363580227
+      },
+      "OrientationForward": {
+        "x": 3.469447E-17,
+        "y": -9.313226E-09,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 7.450581E-09,
+        "y": -1.0,
+        "z": -9.313226E-09
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    }
+  ]
+}

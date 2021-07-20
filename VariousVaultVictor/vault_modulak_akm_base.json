@@ -1,0 +1,183 @@
+{
+  "FileName": "vault_modulak_akm_base",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -4.0,
+  "SpeedForward": 2.2,
+  "SpringStiffness": 150.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": -105.0,
+      "ModeType": "Safe",
+      "BurstAmount": 0
+    },
+    {
+      "SelectorPosition": -92.0,
+      "ModeType": "FullAuto",
+      "BurstAmount": 0
+    },
+    {
+      "SelectorPosition": -84.0,
+      "ModeType": "Single",
+      "BurstAmount": 3
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "ModulAKM",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "HammerState": "Uncocked",
+        "FireSelectorState": "0"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "AKGripAKM",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.00629997253,
+        "z": -0.0108213425
+      },
+      "OrientationForward": {
+        "x": -2.32830644E-09,
+        "y": 5.014435E-18,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -4.307367E-09,
+        "y": -1.0,
+        "z": -5.014435E-18
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 6,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 2,
+      "ObjectID": "AKFore74Wood",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0559999943,
+        "z": 0.302999973
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 5,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 3,
+      "ObjectID": "AKStock74Wood",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0274999142,
+        "z": -0.0486998558
+      },
+      "OrientationForward": {
+        "x": -1.28085015E-13,
+        "y": 4.911795E-06,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -5.21540571E-08,
+        "y": 1.0,
+        "z": -4.911795E-06
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 4,
+      "ObjectID": "AKDustcover74",
+      "PosOffset": {
+        "x": 0.00200009346,
+        "y": 0.06440008,
+        "z": -0.0460000038
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -3.72529074E-09,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 7,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 5,
+      "ObjectID": "MuzzleAK74m",
+      "PosOffset": {
+        "x": 0.000299930573,
+        "y": 0.0470600128,
+        "z": 0.5675502
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 1.30385143E-08,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    }
+  ]
+}

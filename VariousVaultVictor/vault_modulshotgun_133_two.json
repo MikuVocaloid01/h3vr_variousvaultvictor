@@ -1,0 +1,142 @@
+{
+  "FileName": "vault_modulshotgun_133_two",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": 0.0,
+  "SpeedForward": 0.0,
+  "SpringStiffness": 0.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "Modul133",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "HammerState": "Uncocked",
+        "SafetyState": "On"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "Fore133W",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.013800025,
+        "z": 0.365200043
+      },
+      "OrientationForward": {
+        "x": -7.45057971E-09,
+        "y": -1.117587E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -7.45057971E-09,
+        "y": -1.0,
+        "z": -1.117587E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 2,
+      "ObjectID": "Stock133W",
+      "PosOffset": {
+        "x": -1.1920929E-07,
+        "y": 0.04849994,
+        "z": 0.0143003464
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 3,
+      "ObjectID": "Mag133_6",
+      "PosOffset": {
+        "x": -1.1920929E-07,
+        "y": 0.031140089,
+        "z": 0.5426998
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 4,
+      "ObjectID": "Barrel133510",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.059300065,
+        "z": 0.22179985
+      },
+      "OrientationForward": {
+        "x": -1.259148E-06,
+        "y": -2.76164454E-13,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -4.38652876E-07,
+        "y": 1.0,
+        "z": -2.76164454E-13
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    }
+  ]
+}

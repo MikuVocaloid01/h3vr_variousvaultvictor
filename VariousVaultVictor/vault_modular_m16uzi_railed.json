@@ -1,0 +1,308 @@
+{
+  "FileName": "vault_modular_m16uzi_railed",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -5.0,
+  "SpeedForward": 4.0,
+  "SpringStiffness": 200.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": 90.0,
+      "ModeType": "Safe",
+      "BurstAmount": 3
+    },
+    {
+      "SelectorPosition": 0.0,
+      "ModeType": "Single",
+      "BurstAmount": 3
+    },
+    {
+      "SelectorPosition": -90.0,
+      "ModeType": "FullAuto",
+      "BurstAmount": 3
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "ModulM169mmLowerdupe",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "HammerState": "Uncocked",
+        "FireSelectorState": "0"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "AR15GripA2",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.00169998407,
+        "z": 0.00267863274
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 2,
+      "ObjectID": "AR15TubeA2Black",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0553000569,
+        "z": -0.0429999828
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 3,
+      "ObjectID": "AR15StockM4SS",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0552999973,
+        "z": -0.22300005
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 4,
+      "ObjectID": "AR15ChargeM4",
+      "PosOffset": {
+        "x": -1.1920929E-07,
+        "y": 0.0726680756,
+        "z": -0.0305137634
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 5,
+      "ObjectID": "AR15Barrel14,5in",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0550999045,
+        "z": 0.158699989
+      },
+      "OrientationForward": {
+        "x": 2.98023259E-08,
+        "y": 1.490116E-07,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 5.96046341E-08,
+        "y": 1.0,
+        "z": -1.490116E-07
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 6,
+      "ObjectID": "AR15ForeKACRIS",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0557000041,
+        "z": 0.164600134
+      },
+      "OrientationForward": {
+        "x": -1.49011585E-08,
+        "y": 1.04308114E-07,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 5.96046377E-08,
+        "y": 1.0,
+        "z": -1.04308114E-07
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 5,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 7,
+      "ObjectID": "AR15GasBlockM4FS",
+      "PosOffset": {
+        "x": -1.1920929E-07,
+        "y": 0.0550999045,
+        "z": 0.364100218
+      },
+      "OrientationForward": {
+        "x": 2.98023188E-08,
+        "y": 1.19209275E-07,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -2.110127E-15,
+        "y": 1.0,
+        "z": -1.19209275E-07
+      },
+      "ObjectAttachedTo": 5,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 8,
+      "ObjectID": "AR15MuzzleA2",
+      "PosOffset": {
+        "x": -1.1920929E-07,
+        "y": 0.0550999641,
+        "z": 0.5088
+      },
+      "OrientationForward": {
+        "x": 2.98023259E-08,
+        "y": 1.71363325E-07,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 5.96046341E-08,
+        "y": 1.0,
+        "z": -1.71363325E-07
+      },
+      "ObjectAttachedTo": 5,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 9,
+      "ObjectID": "AR15UpperM4",
+      "PosOffset": {
+        "x": 1.1920929E-07,
+        "y": 0.040700078,
+        "z": 0.135099888
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 10,
+      "ObjectID": "HandleSightM16A4",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.08570129,
+        "z": 0.07282519
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 9,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    }
+  ]
+}

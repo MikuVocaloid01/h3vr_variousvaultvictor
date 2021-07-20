@@ -1,0 +1,278 @@
+{
+  "FileName": "vault_modulsvd_custom",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -4.0,
+  "SpeedForward": 1.5,
+  "SpringStiffness": 100.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": -86.15701,
+      "ModeType": "Safe",
+      "BurstAmount": 0
+    },
+    {
+      "SelectorPosition": -73.426,
+      "ModeType": "Single",
+      "BurstAmount": 0
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "SVD-S",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "HammerState": "Uncocked",
+        "FireSelectorState": "0"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "SVDForeModern",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0307998657,
+        "z": 0.272600174
+      },
+      "OrientationForward": {
+        "x": 2.94209165E-15,
+        "y": 7.45058149E-09,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -7.897616E-07,
+        "y": -1.0,
+        "z": 7.45058149E-09
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 2,
+      "ObjectID": "SVDDustIzhmash",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0383999348,
+        "z": -0.007900238
+      },
+      "OrientationForward": {
+        "x": -1.90734841E-06,
+        "y": 2.145767E-06,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 2.98043652E-08,
+        "y": 1.0,
+        "z": -2.145767E-06
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 6,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 3,
+      "ObjectID": "SVDUpperBand",
+      "PosOffset": {
+        "x": 0.000100016594,
+        "y": 0.0303701162,
+        "z": 0.2725997
+      },
+      "OrientationForward": {
+        "x": -1.11022276E-16,
+        "y": 7.45057971E-09,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 2.98023188E-08,
+        "y": -1.0,
+        "z": 7.45057971E-09
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 4,
+      "ObjectID": "TT01",
+      "PosOffset": {
+        "x": 9.98973846E-05,
+        "y": 0.06387019,
+        "z": 0.328099728
+      },
+      "OrientationForward": {
+        "x": 9.46465264E-14,
+        "y": -9.23872051E-07,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -2.04890981E-07,
+        "y": 1.0,
+        "z": 9.23872051E-07
+      },
+      "ObjectAttachedTo": 3,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 5,
+      "ObjectID": "SVDLowMount",
+      "PosOffset": {
+        "x": -0.0219000578,
+        "y": 0.011500001,
+        "z": 0.08949995
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -2.7939675E-09,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 6,
+      "ObjectID": "AKGripRK3",
+      "PosOffset": {
+        "x": 0.0,
+        "y": -0.0155998468,
+        "z": 0.01517868
+      },
+      "OrientationForward": {
+        "x": 2.15204727E-06,
+        "y": -0.000102639169,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 1.34891643E-05,
+        "y": -1.0,
+        "z": -0.0001026392
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 5,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 7,
+      "ObjectID": "AR15TubeA2Black",
+      "PosOffset": {
+        "x": -1.1920929E-07,
+        "y": 0.004999876,
+        "z": -0.0316
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 8,
+      "ObjectID": "AR15StockAK12",
+      "PosOffset": {
+        "x": -2.38418579E-07,
+        "y": 0.004999757,
+        "z": -0.2116003
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 2.98023224E-08,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 7,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 9,
+      "ObjectID": "SVDFront",
+      "PosOffset": {
+        "x": -2.38418579E-07,
+        "y": 0.0287001133,
+        "z": 0.7981
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 2.235174E-08,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    }
+  ]
+}

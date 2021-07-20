@@ -1,0 +1,353 @@
+{
+  "FileName": "vault_modulsaiga_customlasers",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -4.0,
+  "SpeedForward": 2.2,
+  "SpringStiffness": 150.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": -103.939,
+      "ModeType": "Safe",
+      "BurstAmount": 0
+    },
+    {
+      "SelectorPosition": -81.439,
+      "ModeType": "Single",
+      "BurstAmount": 0
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "Saiga12_Base",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "HammerState": "Uncocked",
+        "FireSelectorState": "0"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "AKGripAK12",
+      "PosOffset": {
+        "x": -1.1920929E-07,
+        "y": 0.00610017776,
+        "z": 0.012178421
+      },
+      "OrientationForward": {
+        "x": 2.099897E-06,
+        "y": -0.000102668972,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 1.35632072E-05,
+        "y": -1.0,
+        "z": -0.000102669
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 5,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 2,
+      "ObjectID": "Saiga Fore Bravo18",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0471999645,
+        "z": 0.217900276
+      },
+      "OrientationForward": {
+        "x": -2.98023135E-08,
+        "y": 1.49011719E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -8.046626E-07,
+        "y": -1.0,
+        "z": 1.49011479E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 3,
+      "ObjectID": "SaigaDustcover",
+      "PosOffset": {
+        "x": 1.1920929E-07,
+        "y": 0.06519997,
+        "z": -0.02970028
+      },
+      "OrientationForward": {
+        "x": -1.90734841E-06,
+        "y": 2.13086582E-06,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 2.980435E-08,
+        "y": 1.0,
+        "z": -2.13086582E-06
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 4,
+      "ObjectID": "AKStockAKS",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0283999443,
+        "z": -0.0316996574
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 2.98023259E-08,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 5,
+      "ObjectID": "canted",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0159003735,
+        "z": 0.310711384
+      },
+      "OrientationForward": {
+        "x": 4.29205365E-08,
+        "y": -3.53455544E-05,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 4.509463E-06,
+        "y": -1.0,
+        "z": -3.53455544E-05
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 6,
+      "ObjectID": "TacticalLaser1",
+      "PosOffset": {
+        "x": 0.0289000273,
+        "y": 0.07529807,
+        "z": 0.373687267
+      },
+      "OrientationForward": {
+        "x": 9.740688E-09,
+        "y": -3.529403E-05,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.7071031,
+        "y": 0.7071105,
+        "z": 2.49498935E-05
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 7,
+      "ObjectID": "TacticalLaser1",
+      "PosOffset": {
+        "x": -0.0288999081,
+        "y": 0.0754979849,
+        "z": 0.371418476
+      },
+      "OrientationForward": {
+        "x": 1.83263182E-09,
+        "y": -3.532156E-05,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -0.707109749,
+        "y": 0.7071038,
+        "z": 2.49773057E-05
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 5,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 8,
+      "ObjectID": "TacticalLaser1",
+      "PosOffset": {
+        "x": -1.1920929E-07,
+        "y": 0.09519601,
+        "z": 0.372899532
+      },
+      "OrientationForward": {
+        "x": -2.22653966E-08,
+        "y": -3.534555E-05,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -4.885718E-06,
+        "y": 1.0,
+        "z": 3.534555E-05
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 9,
+      "ObjectID": "TacticalLaser1",
+      "PosOffset": {
+        "x": -0.027400136,
+        "y": 0.04219818,
+        "z": 0.373548031
+      },
+      "OrientationForward": {
+        "x": 1.32513378E-08,
+        "y": -3.524794E-05,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -1.00000012,
+        "y": -4.64947334E-06,
+        "z": 1.30912667E-08
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 10,
+      "ObjectID": "TacticalLaser1",
+      "PosOffset": {
+        "x": 0.0271999836,
+        "y": 0.0421977043,
+        "z": 0.382635117
+      },
+      "OrientationForward": {
+        "x": 1.05501385E-10,
+        "y": -3.53612E-05,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 1.0,
+        "y": 5.960152E-06,
+        "z": 1.05501385E-10
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 11,
+      "ObjectID": "TacticalLaser1",
+      "PosOffset": {
+        "x": -1.1920929E-07,
+        "y": 0.0158981085,
+        "z": 0.376238823
+      },
+      "OrientationForward": {
+        "x": 3.73336171E-08,
+        "y": -3.528595E-05,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 4.574656E-06,
+        "y": -1.0,
+        "z": -3.528595E-05
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 12,
+      "ObjectID": "ReflexRedDotTall",
+      "PosOffset": {
+        "x": -1.1920929E-07,
+        "y": 0.0952034,
+        "z": 0.16304636
+      },
+      "OrientationForward": {
+        "x": 1.498885E-08,
+        "y": -3.534555E-05,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -4.96208531E-06,
+        "y": 1.0,
+        "z": 3.534555E-05
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "FileName": "vault_modul417_g28_base",
+  "LoadedRoundsInMag": [],
+  "LoadedRoundsInChambers": [],
+  "SavedFlags": [],
+  "OverrideFireRate": false,
+  "SpeedRearward": -5.0,
+  "SpeedForward": 4.0,
+  "SpringStiffness": 200.0,
+  "OverrideFireSelectors": false,
+  "FireSelectorModes": [
+    {
+      "SelectorPosition": 0.0,
+      "ModeType": "Safe",
+      "BurstAmount": 3
+    },
+    {
+      "SelectorPosition": -90.0,
+      "ModeType": "Single",
+      "BurstAmount": 3
+    }
+  ],
+  "Components": [
+    {
+      "Index": 0,
+      "ObjectID": "G28_LOWER_reciver",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": -1,
+      "MountAttachedTo": -1,
+      "IsFirearm": true,
+      "IsMagazine": false,
+      "IsAttachment": false,
+      "Flags": {
+        "HammerState": "Uncocked",
+        "FireSelectorState": "0"
+      }
+    },
+    {
+      "Index": 1,
+      "ObjectID": "g28_charging Handle_1",
+      "PosOffset": {
+        "x": -0.000800013542,
+        "y": 0.07929999,
+        "z": -0.0455999374
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 2,
+      "ObjectID": "G28_upper_RECIVER",
+      "PosOffset": {
+        "x": -0.000900030136,
+        "y": 0.0369000435,
+        "z": 0.156100035
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 3,
+      "ObjectID": "Barrel_417_hk_505mm_762x51",
+      "PosOffset": {
+        "x": -0.00110006332,
+        "y": 0.05670005,
+        "z": 0.18789959
+      },
+      "OrientationForward": {
+        "x": 2.98023135E-08,
+        "y": -2.60770339E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 1.7881392E-07,
+        "y": 1.0,
+        "z": 2.607703E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 4,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 4,
+      "ObjectID": "g28_muzzle_1",
+      "PosOffset": {
+        "x": -0.000700116158,
+        "y": 0.0554599762,
+        "z": 0.682499647
+      },
+      "OrientationForward": {
+        "x": 5.96046448E-08,
+        "y": -5.32907052E-15,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 1.78813934E-07,
+        "y": 1.0,
+        "z": -5.32907052E-15
+      },
+      "ObjectAttachedTo": 3,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 5,
+      "ObjectID": "g28_e1_stock",
+      "PosOffset": {
+        "x": 0.0,
+        "y": 0.0580999255,
+        "z": -0.06160021
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 6,
+      "ObjectID": "BVT_T GRIP",
+      "PosOffset": {
+        "x": -0.00160002708,
+        "y": 0.00170004368,
+        "z": -2.14576721E-05
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 1,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 7,
+      "ObjectID": "g28_hk_handgaurd",
+      "PosOffset": {
+        "x": -0.000900030136,
+        "y": 0.0557000041,
+        "z": 0.1878004
+      },
+      "OrientationForward": {
+        "x": -8.940695E-08,
+        "y": -7.45057847E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 1.78813877E-07,
+        "y": 1.0,
+        "z": 7.45058E-08
+      },
+      "ObjectAttachedTo": 0,
+      "MountAttachedTo": 5,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 8,
+      "ObjectID": "railcover_left",
+      "PosOffset": {
+        "x": -0.0266002417,
+        "y": 0.0544999242,
+        "z": 0.274449348
+      },
+      "OrientationForward": {
+        "x": -1.00098781E-07,
+        "y": -4.74152024E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": -1.00000012,
+        "y": 5.96046448E-08,
+        "z": -1.00098774E-07
+      },
+      "ObjectAttachedTo": 7,
+      "MountAttachedTo": 2,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 9,
+      "ObjectID": "railcover_right",
+      "PosOffset": {
+        "x": 0.0249999762,
+        "y": 0.0544999242,
+        "z": 0.268615484
+      },
+      "OrientationForward": {
+        "x": -7.902534E-08,
+        "y": -5.79519153E-08,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 1.00000012,
+        "y": -3.57627869E-07,
+        "z": 7.90253338E-08
+      },
+      "ObjectAttachedTo": 7,
+      "MountAttachedTo": 3,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    },
+    {
+      "Index": 10,
+      "ObjectID": "HK_REAR_sight_2",
+      "PosOffset": {
+        "x": -0.0008999109,
+        "y": 0.09350008,
+        "z": 0.0329051
+      },
+      "OrientationForward": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+      },
+      "OrientationUp": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "ObjectAttachedTo": 2,
+      "MountAttachedTo": 0,
+      "IsFirearm": false,
+      "IsMagazine": false,
+      "IsAttachment": true,
+      "Flags": {}
+    }
+  ]
+}
