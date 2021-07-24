@@ -43,9 +43,9 @@ Let me know how it goes, whether anything needs to be changed, like some weapon 
 - Mag Purchase Panel changed to Mag Upgrader Panel
 
 #### 1.1
- - Default HK416
- - ModulHK Parts
- - ModulSTM Parts
+- Default HK416
+- ModulHK Parts
+- ModulSTM Parts
 - ModulSaiga Parts
 - ModulFAL Parts
 - ModulShotgun Parts
@@ -68,6 +68,7 @@ Let me know how it goes, whether anything needs to be changed, like some weapon 
 
 #### Planned for 1.4
 - Modul-M14 Vaults and Parts
+- Modul-M700 Vaults and Parts
 
 #### When I feel like doing it
 - Rework of the parts menu (panel 2) because it's getting pretty crowded
@@ -76,6 +77,6 @@ Let me know how it goes, whether anything needs to be changed, like some weapon 
 
 #### When it releases
 - Modul-1911 Vaults and Parts
-- Modul-M700 Vaults and Parts
+
 
 
