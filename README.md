@@ -5,7 +5,7 @@
 ![Character Icon](https://i.imgur.com/qIZYWfS.png)
 
  ## Table of Contents
-###  | [Info](#info) | [Changes](#changes) | [Spawning Table](#spawning-table) | [Update Log](#update-log) | [Upcoming Features](#upcoming-features) |
+###  | [Info](#info) | [Download](#download) | [Changes](#changes) | [Spawning Table](#spawning-table) | [Update Log](#update-log) | [Upcoming Features](#upcoming-features) |
 
 ## Info
 My first Take and Hold custom character, based off of Ricky Dicky Random. 
@@ -13,6 +13,12 @@ My first Take and Hold custom character, based off of Ricky Dicky Random.
 I've always lamented getting any of the parts from the modular gun mods because they're basically unusable in RDR. 
 
 This character is an attempt to solve that issue. 
+
+## Download
+
+You can find releases on GitHub or on Thunderstore. (when it gets released there)
+
+Alternatively, you can build your own [Deli](https://github.com/Deli-Collective/Deli) file from the `master` branch.
 
 ## Changes
 
@@ -35,8 +41,8 @@ Let me know how it goes, whether anything needs to be changed, like some weapon 
 #### 1.2 - NEXT UPDATE
 - Default HK417 Pool 16
 - Default G28 Pool 16
-- FNV Service Carbine (Single Only)
-- FNV Marksman Carbine (Single Only)
+- FNV Service Carbine (Single Only) Pool 7
+- FNV Marksman Carbine (Single Only) Pool 7
 - Default Kilo141 Pool 17
 - First Hold 1 less token
 - First Take and Supply 1 more enemy
@@ -71,6 +77,7 @@ Let me know how it goes, whether anything needs to be changed, like some weapon 
 - Modul-M700 Vaults and Parts
 
 #### When I feel like doing it
+- Maybe release a lite version for Thunderstore while ModulAR and ModulAK are waiting to be released?
 - Rework of the parts menu (panel 2) because it's getting pretty crowded
 - Proper progression (Pistols on first take supply point, shotguns on second, etc) 
 - Some non-modular gun vaults
