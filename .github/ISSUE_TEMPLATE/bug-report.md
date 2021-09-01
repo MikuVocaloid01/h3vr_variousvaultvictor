@@ -33,7 +33,8 @@ You can use a site like Hastebin, or use Github Gist.
  - Deli (insert version number here)
  - Take And Hold Tweaker (insert version number here)
  - (All your other mods here)
- - 
+ - (You can also go into r2mm/TMM settings, under the Modpacks tab, and copy the dependency string.)
+ - (Please use Hastebin or Github Gist if you do that)
 
 **Additional context**
 Add any other context about the problem here.
